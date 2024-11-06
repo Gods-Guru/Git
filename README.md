@@ -61,12 +61,4 @@ npm run format
 
 This command will execute Prettier on your project files and apply consistent formatting according to the rules defined in your configuration.
 
-
-<div align="center">
-
-  <a href="https://github.com/Groverio/To-Do-List">
-    <img src="https://contrib.rocks/image?repo=Groverio/To-Do-List" />
-  </a>
-</div>
-
 Feel free to reach out to either of us for any issues or contributions.
