@@ -1,7 +1,4 @@
 # To-Do-List
-
-<img width="950" alt="{C4591A30-5564-48AD-9ACC-1DAA32FA68B4}" src="https://github.com/user-attachments/assets/927a61f2-0908-4b76-98fd-7a77191b0177">
-
 - Simple
 - Interactive
 - Built with HTML, CSS, and JavaScript
@@ -22,7 +19,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/Anshgrover23/To-Do-List.git
+git clone https://github.com/Gods-Guru/To-Do-List.git
 ```
 
 Open `index.html` in your browser to use the application.
@@ -34,31 +31,3 @@ Open `index.html` in your browser to use the application.
 - **Edit a Task:** Click the edit icon next to the task, make your changes, and save.
 - **Delete a Task:** Click the delete icon next to the task.
 
-## Linting and Formatting
-
-This project uses **ESLint** and **Prettier** to ensure code quality and consistency.
-
-- **ESLint** helps identify and fix problems in your JavaScript code.
-- **Prettier** automatically formats your code to follow consistent styling rules.
-
-### Running the Linter
-
-To check your code for issues, run the following command:
-
-```bash
-npm run lint
-```
-
-This command will execute ESLint on your project files and report any errors or warnings.
-
-### Running the Formatter
-
-To format your code, run the following command:
-
-```bash
-npm run format
-```
-
-This command will execute Prettier on your project files and apply consistent formatting according to the rules defined in your configuration.
-
-Feel free to reach out to either of us for any issues or contributions.
