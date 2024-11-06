@@ -61,16 +61,6 @@ npm run format
 
 This command will execute Prettier on your project files and apply consistent formatting according to the rules defined in your configuration.
 
-## Contribution Guide:
-
-For detailed instructions on how to contribute, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-Let's make this project even better together! 🎉
-
-## 👀 Our Contributors
-
-- We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating To-Do-List to greater heights.
-- Make sure you show some love by giving ⭐ to our repository.
 
 <div align="center">
 
