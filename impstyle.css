@@ -25,6 +25,36 @@ body {
   /* border:1px black solid */
 }
 
+.link {
+  display: flex;
+  list-style-type: none;
+  cursor: pointer;
+  position: relative;
+}
+
+.link a {
+  font-size: 1rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: #000;
+  background-color: white;
+  padding: 0.6rem;
+  border-radius: 0.5rem;
+  position: absolute;
+  left: 90%;
+  top: 10%;
+}
+
+.link a:hover {
+  background-color: rgb(228, 227, 227);
+  transition: all 300ms linear;
+}
+
+.link i {
+  font-size: 1rem;
+  align-self: center;
+}
+
 .toggle-container {
   border: 2px solid black;
   border-radius: 10px;
