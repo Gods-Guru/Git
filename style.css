@@ -30,7 +30,7 @@ why-need-link {
 .header {
   width: 100%;
   height: 12vh;
-  background-color: #4caf50;
+  background-color: #000;
   color: white;
   display: flex;
   align-items: center;
@@ -188,7 +188,7 @@ h1 {
 
 .js-add-button,
 .js-cancel-button {
-  background-color: green;
+  background-color: #000;
   color: white;
   border: none;
   font-weight: bold;
@@ -200,7 +200,7 @@ h1 {
 }
 
 .js-add-button:hover {
-  background-color: darkgreen;
+  background-color: #333;
 }
 
 .js-cancel-button {
@@ -403,7 +403,7 @@ Animating title
 
 .subtitle {
   text-align: center;
-  color: #f6ac62;
+  color: #fff;
   font-family: 'Open sans', sans-serif;
   font-family: cursive;
   font-size: 5rem;
@@ -425,7 +425,7 @@ Animating title
 
 .sort-button,
 .js-filter-input {
-  background-color: #4caf50;
+  background-color: #000;
   border: none;
   color: white;
   padding: 10px 20px;
@@ -441,11 +441,11 @@ Animating title
 
 .sort-button:hover,
 .js-filter-input:hover {
-  background-color: #45a049;
+  background-color: #333;
 }
 
 .task-counter-button {
-  background-color: #4caf50;
+  background-color: #000;
   border: none;
   color: white;
   padding: 10px 20px;
@@ -462,13 +462,13 @@ Animating title
 }
 
 .task-counter-button:hover {
-  background-color: #45a049; /* Same hover effect as sort button */
+  background-color: #000; /* Same hover effect as sort button */
 }
 
 .js-filter-input {
   font-size: 15px;
   padding: 10px 15px;
-  background-color: #4caf50;
+  background-color: #000;
   color: white;
 }
 
